@@ -2,14 +2,14 @@
 
 
 Frontend:
-React
+React,
 Socket.io-client
 
 Backend:
-Node
-Express
-Nodemon
-cors
+Node,
+Express,
+Nodemon,
+cors,
 socket.io
 
 
